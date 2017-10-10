@@ -1,2 +1,2 @@
 # blockchainlife.github.io
-http://blockchainlife.info
+blockchainlife.github.io
